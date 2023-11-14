@@ -1,4 +1,4 @@
-# odev-6
+# gulsum odev 6
 odev 6
 import java.util.Random;
 import java.util.Scanner;
